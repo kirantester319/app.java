@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13499" started-at="2019-10-22T17:33:27Z" finished-at="2019-10-22T17:33:41Z">
+  <suite name="Suite" duration-ms="49436" started-at="2019-10-25T14:32:17Z" finished-at="2019-10-25T14:33:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13499" started-at="2019-10-22T17:33:27Z" finished-at="2019-10-22T17:33:41Z">
+    <test name="Test" duration-ms="49436" started-at="2019-10-25T14:32:17Z" finished-at="2019-10-25T14:33:06Z">
       <class name="Maven.Project.SeleniumOpenBrowser">
-        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Maven.Project.SeleniumOpenBrowser@55f3ddb1]" name="OpenBrowser" duration-ms="13478" started-at="2019-10-22T23:03:27Z" finished-at="2019-10-22T23:03:41Z">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Maven.Project.SeleniumOpenBrowser@55f3ddb1]" name="OpenBrowser" duration-ms="49403" started-at="2019-10-25T20:02:17Z" finished-at="2019-10-25T20:03:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
       </class> <!-- Maven.Project.SeleniumOpenBrowser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

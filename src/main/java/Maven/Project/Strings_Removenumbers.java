@@ -1,10 +1,15 @@
 package Maven.Project;
 
+import org.testng.annotations.Test;
+
 public class Strings_Removenumbers {
 	
 	
 	
-	public static void main(String[] args) {
+	@Test
+	
+	public void StrinProgram()
+	{
 		
 		String str = "This is Java Program 404";
 		

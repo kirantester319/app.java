@@ -22,7 +22,7 @@ public class SeleniumOpenBrowser {
 	public void OpenBrowser() throws Exception
 	
 	{
-		System.setProperty("webdriver.chrome.driver", "C:/Users/hp/eclipse-workspace/Project/Drivers/chromedriver2.exe");
+		System.setProperty("webdriver.chrome.driver", "F:/SetUps/chromedriver2.exe");
 		WebDriver driver = new ChromeDriver();
 		
 		driver.manage().window().maximize();
